@@ -1,0 +1,12 @@
+name: SpoutFun
+version: 0.1
+description: Having fun with the Spout api.
+authors: [hef]
+website: http://acm.cs.uic.edu
+main: hef.spoutfun.SpoutFun
+softdepend: [Spout]
+
+commands:
+  yoshi:
+    description: Turns nearby chickens into yoshi.
+    usage: /<command>
